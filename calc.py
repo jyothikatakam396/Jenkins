@@ -10,4 +10,4 @@ def Divide(num1, num2):
 print(add(2,3))
 print(subtract(5,2))
 print(Multiply(2,3))
-print(Divide(10,5))
+print(Divide(10,10))
